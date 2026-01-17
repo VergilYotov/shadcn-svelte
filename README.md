@@ -18,6 +18,7 @@ Accessible and customizable components that you can copy and paste into your app
 ## Documentation
 
 Visit https://shadcn-svelte.com/docs to view the documentation.
+Visit https://mcp.deepwiki.com/ for additional docs.
 
 ## Sponsors
 
