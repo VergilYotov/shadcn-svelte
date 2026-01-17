@@ -74,6 +74,7 @@ export { default as TextareaWithButton } from "./textarea-with-button.svelte";
 export { default as TextareaDisabled } from "./textarea-disabled.svelte";
 export { default as TextareaWithLabel } from "./textarea-with-label.svelte";
 export { default as TextareaWithText } from "./textarea-with-text.svelte";
+export { default as TimeRangeInputDemo } from "./time-range-input-demo.svelte";
 export { default as ToggleDemo } from "./toggle-demo.svelte";
 export { default as ToggleDisabled } from "./toggle-disabled.svelte";
 export { default as ToggleLg } from "./toggle-lg.svelte";

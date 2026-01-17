@@ -4122,6 +4122,17 @@
 			]
 		},
 		{
+			"name": "time-range-input",
+			"type": "registry:block",
+			"registryDependencies": ["label", "popover", "button", "range-calendar", "input"],
+			"files": [
+				{
+					"type": "registry:component",
+					"path": "src/lib/registry/blocks/time-range-input.svelte"
+				}
+			]
+		},
+		{
 			"name": "is-mobile",
 			"type": "registry:hook",
 			"registryDependencies": [],
